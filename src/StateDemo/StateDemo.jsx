@@ -75,6 +75,6 @@ export default class StateDemo extends Component {
             <hr />
             <BaiTapTangGiamFontSize />
             </>
-        )
+        ) 
     }
 }
